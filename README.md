@@ -1,7 +1,7 @@
-# 🪶 Gittesencula
+# Gittesencula
 Amend in git like a pro.
 
-## 📦 Install
+## Installing
 Follow the steps below to make use of Gittesencula.
 
 1. Clone this repository:
@@ -9,10 +9,10 @@ Follow the steps below to make use of Gittesencula.
 git clone https://github.com/Airscripts/gittesencula.git
 ```
 
-## 🤝 Contribute
+## Contributing
 Contributions and suggestions about how to improve this project are welcome!
 
-## 💚 Support
+## Support
 If you want to support my work you can do it with the links below.
 
 Choose what you find more suitable for you:  
@@ -20,5 +20,5 @@ Choose what you find more suitable for you:
 - [Support me via ko-fi](https://ko-fi.com/airscript)
 - [Support me via linktr.ee](https://linktr.ee/airscript)
 
-## 💳 License  
+## License  
 This repository is licensed under [MIT License](https://github.com/Airscripts/gittesencula/blob/main/LICENSE).
